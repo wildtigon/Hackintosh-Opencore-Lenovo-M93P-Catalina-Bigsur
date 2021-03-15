@@ -4,7 +4,7 @@
 ## Specification
 | **Component** | **Model** |
 | ------------- | --------- |
-| CPU | Intel core i3/i5 Hashwell |
+| CPU | Intel core i3/i5 Haswell |
 | Motherboard | Lenovo M93P's mainboard|
 | RAM | 8GB (2 x 4GB) Samsung OEM laptop's memory |
 | Ethernet | Intel 1GbE |
