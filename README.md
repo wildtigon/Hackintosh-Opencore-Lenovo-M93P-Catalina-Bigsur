@@ -1,4 +1,4 @@
-# AMD Ryzen Hackintosh - Opencore EFI for Lenovo M93P
+# Hackintosh - Opencore EFI for Lenovo M93P
 
 
 ## Specification
